@@ -18,7 +18,7 @@ URL: [https://www.pygame.org/news ](https://www.pygame.org/news)
 1. Clone the git repo
 
 ```
-https://github.com/AAdewunmi/Platformer.git
+https://github.com/russs123/Platformer.git
 ```
 
 2. Open project folder
